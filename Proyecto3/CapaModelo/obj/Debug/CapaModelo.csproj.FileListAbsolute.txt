@@ -1,0 +1,18 @@
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaModelo\obj\Debug\CapaModelo.pdb
