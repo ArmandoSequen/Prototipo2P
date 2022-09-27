@@ -1,0 +1,27 @@
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaControlador\obj\Debug\CapaControlador.pdb

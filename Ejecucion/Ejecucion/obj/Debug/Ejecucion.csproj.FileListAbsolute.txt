@@ -1,0 +1,64 @@
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaVista.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaControlador.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaModelo.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaVista.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaControlador.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaModelo.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Kevin\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaVista.dll
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaControlador.dll
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaVista.pdb
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaControlador.pdb
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Alejandro\Desktop\CapacitacionMVC\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\CapaVista.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\CapaControlador.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\CapaVista.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\CapaControlador.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\CapaVista.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\CapaControlador.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\CapaModelo.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\CapaVista.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\CapaControlador.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\bin\Debug\CapaModelo.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb

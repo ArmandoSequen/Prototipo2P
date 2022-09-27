@@ -1,0 +1,42 @@
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Kevin\Desktop\CapacitacionMVC\Proyecto3\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.Menu.resources
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Alejandro\Desktop\Analisis de Sistemas Parcial\Prototipo2P\Proyecto3\CapaVista\obj\Debug\CapaVista.Maestros.resources
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\obj\Debug\CapaVista.Menu.resources
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\pc\Desktop\Prototipo2P-RamaContenedor09011976\Proyecto3\CapaVista\obj\Debug\CapaVista.Productos.resources
